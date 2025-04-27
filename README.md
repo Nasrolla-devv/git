@@ -9,8 +9,7 @@ insights into your financial habits.
 
 | Main View                                                                                     | Expenses                                                                                     | Categories                                                                                     | Settings                                                                                     | Statistics                                                                                     |
 | --------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| ![Main View](https://github.com/user-attachments/assets/a3078657-2ac0-4a14-b99e-36be5a2556d2) | ![Expenses](https://github.com/user-attachments/assets/1759d54d-e50f-4954-b858-83881c2f3782) | ![Categories](https://github.com/user-attachments/assets/7d71d93c-9efc-4c21-b434-a8c3618d6aa5) | ![Settings](https://github.com/user-attachments/assets/aaa1d71a-5f9d-4197-bc71-5cfa0da3b081) | ![Statistics](https://github.com/user-attachments/assets/705f3af2-32da-420c-b6dc-2ab9dc3e6c28) |
-
+| ![Main View](https://github.com/user-attachments/assets/a3078657-2ac0-4a14-b99e-36be5a2556d2) | ![Expenses](https://github.com/user-attachments/assets/1759d54d-e50f-4954-b858-83881c2f3782) | ![Categories](https://github.com/user-attachments/assets/ebc96594-bcd3-4c8b-bdef-2608d1b4f52f) | ![Settings](https://github.com/user-attachments/assets/aaa1d71a-5f9d-4197-bc71-5cfa0da3b081) | ![Statistics](https://github.com/user-attachments/assets/705f3af2-32da-420c-b6dc-2ab9dc3e6c28) |
 
 
 
